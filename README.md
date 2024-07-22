@@ -1,5 +1,5 @@
 # Air Control - Frontend
-
+![InfoClub App Screenshot](https://drive.google.com/uc?export=download&id=1L3r82zPpv9JQfkDKCodwguc8hD6dcRTQ)
 ## Descrição
 
 O AirControlIoT é um aplicativo de monitoramento de temperatura e umidade desenvolvido em React Native. Ele se conecta a um dispositivo IoT que coleta dados ambientais e os armazena no Firebase. O aplicativo exibe esses dados em gráficos e permite a configuração de redes Wi-Fi.
